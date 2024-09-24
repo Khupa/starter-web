@@ -9,5 +9,8 @@ Sample website with plenty of files for demos
 ## Git Comparisons
 Adding GIT comparisons lecture
 
+## Contribution
+Fork the repo and raise pull request for review
+
 ## GitHub content
 Comparison with  repo
