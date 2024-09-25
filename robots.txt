@@ -1,4 +1,4 @@
 # robotstxt.org/
 
 User-agent: Caffi,Rexy,Monkee,Bulbazar,Pika,Joey,Caffeterius
-User-agent: Pitbulll, Kartman
+User-agent: Pitbulll, Ozyman, Kartman
