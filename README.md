@@ -13,7 +13,8 @@ Adding GIT comparisons lecture
 Fork the repo and raise pull request for review
 
 ## training
-adding rebasse 
+adding rebasse
+We have done so much of work together
 
 ## GitHub content
 Comparison with  repo
