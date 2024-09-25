@@ -12,5 +12,8 @@ Adding GIT comparisons lecture
 ## Contribution
 Fork the repo and raise pull request for review
 
+## training
+adding rebasse 
+
 ## GitHub content
 Comparison with  repo
