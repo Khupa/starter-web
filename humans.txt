@@ -2,6 +2,7 @@
 # The humans responsible & technology colophon
 
 Hi, Im modifying the file before rebase
+Hi, goint to insert conflicts on my featre branch
 
 # TEAM
 
