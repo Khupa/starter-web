@@ -14,4 +14,4 @@
 
     HTML5, CSS5,Angular
     jQuery, Modernizr,Json
-    Docker, Java programming
+    Docker, Java programming, Python
