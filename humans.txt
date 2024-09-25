@@ -4,7 +4,7 @@
 # TEAM
 
    Georgian Toma 
-   adresamail@gmail.com 
+   adresamail@gmail.com
 
 # THANKS
 
@@ -14,3 +14,4 @@
 
     HTML5, CSS5,Angular
     jQuery, Modernizr,Json
+    Docker, Java programming
