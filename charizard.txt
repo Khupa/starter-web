@@ -1,0 +1,2 @@
+eu sunt charizard si sunt pokemon de foc
+nu sunt tracked de git
