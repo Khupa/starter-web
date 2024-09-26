@@ -8,6 +8,7 @@ Sample website with plenty of files for demos
 
 ## Git Comparisons
 Adding GIT comparisons lecture
+Adding new lecture of stash
 
 ## Contribution
 Fork the repo and raise pull request for review
